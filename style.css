@@ -1,5 +1,6 @@
 body {
   width:90%;
+  font-family:helvetica;
 }
 
 th {
@@ -9,6 +10,7 @@ th {
 td {
     padding:5px;
     vertical-align:center;
+	text-align:center;
 }
 
 th {
